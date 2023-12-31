@@ -37,7 +37,7 @@ file=open(sys.argv[1])
 data=file.read()
 words=data.split()
 print("Total Words:",len(words))
-python commad.py py.txt
+
 ````
 ### OUTPUT:
 ![Alt text](1.png)
